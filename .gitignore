@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#ignore data (is too large to store)
+ONYX_data/*
